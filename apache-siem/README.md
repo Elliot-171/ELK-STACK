@@ -213,9 +213,3 @@ I modified the pre-built **`[Filebeat Apache] Access and Error Logs`** visualiza
 * **Metric Column:** `Count of records`
 
 ---
-
-## 📂 Repository File Layout
-```text
-├── README.md               # Full database-integrated SIEM engineering report
-└── login.php               # SQLite multi-action code template
-```
